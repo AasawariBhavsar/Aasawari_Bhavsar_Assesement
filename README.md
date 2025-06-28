@@ -45,7 +45,7 @@ DB_PASSWORD=6equj5_root
 DB_NAME=home_db
 FIELD_MAPPING_CONFIG=config/field_mapping.json
 RAW_DATA_PATH=data/fake_property_data.json
-RELATION_PATH=config/table_relationships.json
+TABLE_RELATION_CONFIG=config/table_relationships.json
 
 
 🐬 MySQL Setup (via Docker)
