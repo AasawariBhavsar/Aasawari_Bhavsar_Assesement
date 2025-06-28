@@ -1,0 +1,80 @@
+{
+  "property": [
+    "Property_Title",
+    "Address",
+    "Market",
+    "Flood",
+    "Street_Address",
+    "City",
+    "State",
+    "Zip",
+    "Property_Type",
+    "Highway",
+    "Train",
+    "Tax_Rate",
+    "SQFT_Basement",
+    "HTW",
+    "Pool",
+    "Commercial",
+    "Water",
+    "Sewage",
+    "Year_Built",
+    "SQFT_MU",
+    "SQFT_Total",
+    "Parking",
+    "Bed",
+    "Bath",
+    "Basement_Yes_No",
+    "Layout",
+    "Rent_Restricted",
+    "Neighborhood_Rating",
+    "Latitude",
+    "Longitude",
+    "Subdivision",
+    "School_Average"
+  ],
+  "leads": [
+    "Reviewed_Status",
+    "Most_Recent_Status",
+    "Source",
+    "Occupancy",
+    "Net_Yield",
+    "IRR",
+    "Selling_Reason",
+    "Seller_Retained_Broker",
+    "Final_Reviewer"
+  ],
+  "valuation": [
+    "Previous_Rent",
+    "List_Price",
+    "Zestimate",
+    "ARV",
+    "Expected_Rent",
+    "Rent_Zestimate",
+    "Low_FMR",
+    "High_FMR",
+    "Redfin_Value"
+  ],
+  "hoa": [
+    "HOA",
+    "HOA_Flag"
+  ],
+  "rehab": [
+    "Underwriting_Rehab",
+    "Rehab_Calculation",
+    "Paint",
+    "Flooring_Flag",
+    "Foundation_Flag",
+    "Roof_Flag",
+    "HVAC_Flag",
+    "Kitchen_Flag",
+    "Bathroom_Flag",
+    "Appliances_Flag",
+    "Windows_Flag",
+    "Landscaping_Flag",
+    "Trashout_Flag"
+  ],
+  "taxes": [
+    "Taxes"
+  ]
+}
